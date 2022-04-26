@@ -1,7 +1,7 @@
 texto = ''
 def gerador(nomeColaborador, centroCusto, codAtendimento, finalidade, nomeProduto, nomeMunicipio, meiaDiaria, diariaInteira, data):
     texto=(f'''
-Titulo: Meia Diária {nomeColaborador}
+Meia Diária - {nomeColaborador}
 
 Nome do Colaborador :{nomeColaborador}
 Centro de Custo: {centroCusto}
